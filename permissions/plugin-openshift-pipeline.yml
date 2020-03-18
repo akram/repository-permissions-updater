@@ -4,6 +4,7 @@ github: "jenkinsci/openshift-pipeline-plugin"
 paths:
 - "com/openshift/jenkins/openshift-pipeline"
 developers:
+- "akram"
 - "gmontero"
 - "bparees"
 - "rymurphy"
